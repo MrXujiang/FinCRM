@@ -1,4 +1,4 @@
-# 金融CRM系统
+# FinCRM——金融领域CRM模版
 
 ![](./demo.png)
 
